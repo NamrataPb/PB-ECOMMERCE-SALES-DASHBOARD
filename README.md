@@ -40,6 +40,9 @@ To view the dashboard, you can follow these steps:
 4. Customer Segmentation: Discover customer segments based on buying behavior, location, or other relevant attributes.
 5. Geospatial Visualization: This section uses maps to display sales and customer distribution geographically.
 
+## Dataset Used
+For Dataset Mail me on work.namratagaikwad@gmail.com.
+
 ## Note on Privacy and Security
 
 If the data used in this project contains sensitive or private information, please ensure to anonymize or pseudonymize the data before sharing or making it public.
