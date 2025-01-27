@@ -1,7 +1,5 @@
 # PB Ecommerce Sales Dashboard
 
-![Project Preview](https://media.discordapp.net/attachments/1130926374866137108/1130931987276902490/WhatsApp_Image_2023-07-19_at_00.09.24.jpg )
-
 ## Introduction
 
 Welcome to my Power BI project "PB-Ecommerce-sales-dashboard"! This project showcases my skills in Data Science and Data Visualization using Power BI. The dashboard provides valuable insights into Ecommerce sales data, enabling better decision-making for business stakeholders.
@@ -42,6 +40,10 @@ To view the dashboard, you can follow these steps:
 
 ## Dataset Used
 For Dataset Mail me on work.namratagaikwad@gmail.com.
+
+## Screenshots
+### Dashboard Preview
+![pb ecommerce](https://github.com/user-attachments/assets/0cd74bdb-0aa9-4954-9cca-7e1ee99ff786)
 
 ## Note on Privacy and Security
 
